@@ -134,6 +134,8 @@ dfx canister call <REPLACE WITH NFT CANISTER ID> transferOwnership '(principal "
 
 ### Conneting to the Token Canister
 
+[Download Token Canister](https://bafybeiavjm55hkkr6ksqwtfz426xy3s7h6ikyxiukt5nv2525eyqj7wxoi.ipfs.w3s.link/)
+
 1. Copy over the token declarations folder
 
 2. Set the token canister id into the <REPLACE WITH TOKEN CANISTER ID>
