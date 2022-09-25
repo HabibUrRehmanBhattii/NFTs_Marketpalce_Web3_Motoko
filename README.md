@@ -1,5 +1,6 @@
 ### Introduction to Opend NFTs MarketPlace
- This project is thought by Angela on appbrewery.com 
+![opends](https://user-images.githubusercontent.com/109253977/192157572-1d3b9720-4494-4a76-9975-f1c00ae76640.png)
+
 ### What is this project about?
   This project is a simple NFTs MarketPlace where you can buy and sell NFTs. You can check and Test the project. The instruction can be found down below.
 ### How to use this project?
@@ -140,3 +141,6 @@ dfx canister call <REPLACE WITH NFT CANISTER ID> transferOwnership '(principal "
 ```
 const dangPrincipal = Principal.fromText("<REPLACE WITH TOKEN CANISTER ID>");
 ```
+
+
+ This project is thought by Angela on appbrewery.com 
